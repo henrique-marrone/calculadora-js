@@ -1,4 +1,4 @@
-# 📟 Calculadora JavaScript
+# 📟 Calculadora 
 
 Calculadora web desenvolvida em **HTML, CSS e JavaScript puro**, utilizando um **motor matemático próprio (sem eval)** para realizar cálculos com segurança, precisão e comportamento realista de calculadora.
 
